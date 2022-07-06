@@ -1,0 +1,47 @@
+.css-19bkjeo-MuiInputBase-root-MuiInput-root input {
+  color: #1a73e8 !important;
+}
+
+.css-b2sfrx-MuiFormLabel-root-MuiInputLabel-root {
+  color: #1a73e8 !important;
+}
+
+.css-1dur2uz-MuiPaper-root-MuiDialog-paper {
+  width: 500px;
+  padding: 15px 10px 0px 10px;
+}
+
+.edit-modal-upload-button .css-dg8ndu-MuiButtonBase-root-MuiButton-root {
+  width: 130px;
+}
+
+.css-h8itpk-MuiInputBase-root-MuiInput-root.Mui-disabled {
+  width: 300px;
+}
+
+.upload-section-modal {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.loading-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 36px 0px;
+}
+.loading-div span {
+  font-size: 20px;
+}
+
+.css-ft9uzq{
+  width:500px;
+}
+.css-oup2n9 {
+padding:10px 0px 00px 10px
+}
+
+.css-1y5cqbx input{
+  color:black
+}
